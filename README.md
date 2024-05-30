@@ -8,8 +8,6 @@ npm start
 
 ### Server
 
-```bash
-
 git clone https://github.com/venkigowda11/TodoApp
 
 cd server
